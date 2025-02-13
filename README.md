@@ -17,8 +17,8 @@ El objetivo es verificar la hipótesis de que **las entregas más cercanas al l�
 
 El proyecto se organiza en los siguientes archivos:
 
-- [`A1.6_Tiempo_Entrega.ipynb`](./A1.6%20Tiempo%20de%20Entrega.ipynb)
-- [`A1.6_Tiempo_Entrega.html`](./A1.6%20Tiempo%20de%20Entrega.html)
-- [`A1.6_Tiempo_Entrega.csv`](./A1.6%20Tiempo%20de%20Entrega.csv)
+- [`A1.6_Tiempo de Entrega.ipynb`](./A1.6%20Tiempo%20de%20Entrega.ipynb)
+- [`A1.6_Tiempo_de Entrega.html`](./A1.6%20Tiempo%20de%20Entrega.html)
+- [`A1.6_Tiempo de Entrega.csv`](./A1.6%20Tiempo%20de%20Entrega.csv)
 
 ---
